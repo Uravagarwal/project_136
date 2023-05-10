@@ -1,0 +1,17 @@
+.head
+{
+    background-color: aqua;
+    color: white;
+}
+
+h4
+{
+    color: black
+}
+
+canvas
+{
+    border-radius: 20px;
+    border-color: crimson;
+}
+
